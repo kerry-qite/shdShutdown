@@ -1,2 +1,3 @@
 # shdShutdown
-shedule shutdown the PC
+shedule shutdown the PC,
+and cancel the shedule.
